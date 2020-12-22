@@ -17,11 +17,11 @@ While there have been efforts to tackle different aspects of this goal (and spec
 
 ## How? 
 
-1. A model for automated identification of software mentions in the scientific literature.
+1. Train a model for automated identification of software mentions in the scientific literature.
 
-2. A model for linking mentions of software to existing knowledge bases ([Wikipedia](https://en.wikipedia.org/wiki/Main_Page), [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page).)
+2. Train a model for linking mentions of software to existing knowledge bases ([Wikipedia](https://en.wikipedia.org/wiki/Main_Page), [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page).)
  
-3. Unsupervised software mention disambiguation/normalization.
+3. Develop a model for unsupervised software mention disambiguation/normalization & hierarchical relation modeling. 
 
 4. Navigable KB: visualization
 
