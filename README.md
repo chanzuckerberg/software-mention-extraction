@@ -19,8 +19,8 @@ While there have been efforts to tackle different aspects of this goal (and spec
 
 1. A model for automated identification of software mentions in the scientific literature.
 
-2. A model for linking mentions of software to existing knowledge bases (Wikipedia, Wikidata.)
-
+2. A model for linking mentions of software to existing knowledge bases ([Wikipedia](https://en.wikipedia.org/wiki/Main_Page), [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page).)
+ 
 3. Unsupervised software mention disambiguation/normalization.
 
 4. Navigable KB: visualization
