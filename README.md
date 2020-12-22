@@ -29,6 +29,7 @@ While there have been efforts to tackle different aspects of this goal (and spec
 
 ## Related documents: 
 
+- [Project Details] (https://docs.google.com/document/d/1BwFHpvispYfniaQR-xx00VpP0EdYxXnkWp-cldWYDr4/edit)
 - [LH presentation (12/18/2020)](https://drive.google.com/file/d/1Be85kFXwtCnXf2iajZAz_aN0ldN9HhdG/view)
 
 
