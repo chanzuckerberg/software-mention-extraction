@@ -8,8 +8,9 @@ Moreover, with the ever-growing number of open-source software tools, it is impo
 The goal of this project is to automate systematic cataloging and build a comprehensive and indexed/queryable knowledge base of scientific software mined from the biomedical literature (including preprints.) 
 
 This knowledge base will enable:
-- monitoring of usage, 
+- monitoring usage, 
 - identification of essential tools and gaps, 
+- analysis of trends over time,
 - facilitate retrieval of popular tools and methods for specific analyses or within specific domains, and more. 
 
 While there have been efforts to tackle different aspects of this goal (and specific to Python or R, for example), we are not aware of a comprehensive index of all scientific tools and software. 
