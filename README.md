@@ -21,7 +21,7 @@ While there have been efforts to tackle different aspects of this goal (and spec
 
 1. Develop a model for automated identification of software mentions in the scientific literature.
 
-2. Develop a model for linking mentions of software to existing knowledge bases ([Wikipedia](https://en.wikipedia.org/wiki/Main_Page)
+2. Develop a model for linking mentions of software to existing knowledge bases ([Wikipedia](https://en.wikipedia.org/wiki/Main_Page))
 
 ## Related documents: 
 
