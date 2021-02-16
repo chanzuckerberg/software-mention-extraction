@@ -19,23 +19,11 @@ While there have been efforts to tackle different aspects of this goal (and spec
 
 ## How? 
 
-1. Train a model for automated identification of software mentions in the scientific literature.
+1. Develop a model for automated identification of software mentions in the scientific literature.
 
-2. Train a model for linking mentions of software to existing knowledge bases ([Wikipedia](https://en.wikipedia.org/wiki/Main_Page), [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page).)
- 
-3. Develop a model for unsupervised software mention disambiguation/normalization & hierarchical relation modeling. 
-
-4. Navigable KB: visualization
-
-5. Question & Answering system over software mentions KB. 
+2. Develop a model for linking mentions of software to existing knowledge bases ([Wikipedia](https://en.wikipedia.org/wiki/Main_Page)
 
 ## Related documents: 
 
 - [Project Details](https://docs.google.com/document/d/1BwFHpvispYfniaQR-xx00VpP0EdYxXnkWp-cldWYDr4/edit)
 - [LH presentation (12/18/2020)](https://drive.google.com/file/d/1Be85kFXwtCnXf2iajZAz_aN0ldN9HhdG/view)
-
-
-TODO: 
-
-- add code
-- update paper2code mappings 
