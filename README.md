@@ -40,11 +40,11 @@ While there have been efforts to tackle different aspects of this goal (and spec
   * Data file: https://github.com/howisonlab/softcite-dataset/blob/master/data/corpus/softcite_corpus-full.tei.xml (downloaded on February 8, 2021)
         
   * Instructions: Download the XML file above and place it in the data folder. 
-        
-  * Process XML file: <span style="color:blue">*./scripts/Parse softcite data.ipynb*</span>.
-          
+   
+  * Process XML file: <span style="color: green"> ./scripts/Parse softcite data.ipynb </span>
+  	  
 	  * Input: ./data/softcite_corpus-full.tei.xml
-          
+    	  
 	  * Output: ./data/labeled_dfs_all.csv
 
 #### Model
@@ -57,7 +57,7 @@ While there have been efforts to tackle different aspects of this goal (and spec
   
   __Performance:__
  
-  <img src="https://github.com/chanzuckerberg/cord19-software-mentions/blob/main/img/img1.png" width="500">
+  <img src="https://github.com/chanzuckerberg/cord19-software-mentions/blob/main/img/img1.png" width="600">
 	
 ### Inference 
 
@@ -69,7 +69,7 @@ While there have been efforts to tackle different aspects of this goal (and spec
   
   * Example: 
   
-  <img src="https://github.com/chanzuckerberg/cord19-software-mentions/blob/main/img/img2.png" width="500">
+  ![](https://github.com/chanzuckerberg/cord19-software-mentions/blob/main/img/img2.png?raw=true)
 
 #### Wikipedia Linking 
 
@@ -81,7 +81,7 @@ While there have been efforts to tackle different aspects of this goal (and spec
 	
   * Example: 
         
-  ![](https://github.com/chanzuckerberg/cord19-software-mentions/blob/main/img/img3.png)
+  ![](https://github.com/chanzuckerberg/cord19-software-mentions/blob/main/img/img3.png?raw=true)
 
 ## Related documents: 
 
