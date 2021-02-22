@@ -51,9 +51,9 @@ While there have been efforts to tackle different aspects of this goal (and spec
 
   * Training: `./scripts/Train software mentions model.ipynb` 
   
-	  * Input: ./data/labeled_dfs_all.csv, ‘allenai/scibert_scivocab_cased’
+	  * *Input:* ./data/labeled_dfs_all.csv, ‘allenai/scibert_scivocab_cased’
 
-	  * Output: ./models/scibert_software_sent 
+	  * *Output:* ./models/scibert_software_sent 
   
   __Performance:__
  
@@ -67,7 +67,7 @@ While there have been efforts to tackle different aspects of this goal (and spec
   
   * Example of how to run the model in inference mode: `./scripts/Software mentions inference mode.ipynb`
   
-  * Example: 
+  * *Example:* 
   
   ![](https://github.com/chanzuckerberg/cord19-software-mentions/blob/main/img/img2.png?raw=true)
 
@@ -79,7 +79,7 @@ While there have been efforts to tackle different aspects of this goal (and spec
 
   * Example of how to run the model in inference mode: `./scripts/Link text to wikipedia.ipynb`
 	
-  * Example: 
+  * *Example:* 
         
   ![](https://github.com/chanzuckerberg/cord19-software-mentions/blob/main/img/img3.png?raw=true)
 
