@@ -55,7 +55,7 @@ While there have been efforts to tackle different aspects of this goal (and spec
   
   __Performance:__
   
-  ![Alt text](https://github.com/chanzuckerberg/cord19-software-mentions/blob/main/img/img1.png?raw=true){:height="15px"}
+  ![](https://github.com/chanzuckerberg/cord19-software-mentions/blob/main/img/img1.png?raw=true | width=100)
 	
 ### Inference 
 
@@ -67,7 +67,7 @@ While there have been efforts to tackle different aspects of this goal (and spec
   
   * Example: 
   
-  ![Alt text](https://github.com/chanzuckerberg/cord19-software-mentions/blob/main/img/img2.png?raw=true)
+  ![](https://github.com/chanzuckerberg/cord19-software-mentions/blob/main/img/img2.png?raw=true)
 
 #### Wikipedia Linking 
 
@@ -79,7 +79,7 @@ While there have been efforts to tackle different aspects of this goal (and spec
 	
   * Example: 
         
-  ![Alt text](https://github.com/chanzuckerberg/cord19-software-mentions/blob/main/img/img3.png?raw=true)
+  ![](https://github.com/chanzuckerberg/cord19-software-mentions/blob/main/img/img3.png?raw=true)
 
 ## Related documents: 
 
