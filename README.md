@@ -55,7 +55,7 @@ While there have been efforts to tackle different aspects of this goal (and spec
   
   __Performance:__
   
-  ![](https://github.com/chanzuckerberg/cord19-software-mentions/blob/main/img/img1.png){:height="50%" width="50%"}
+  ![](https://github.com/chanzuckerberg/cord19-software-mentions/blob/main/img/img1.png){:height="10%" width="10%"}
 	
 ### Inference 
 
