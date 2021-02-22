@@ -35,9 +35,9 @@ While there have been efforts to tackle different aspects of this goal (and spec
 
   __Softcite:__ 
   
-  * Repo: https://github.com/howisonlab/softcite-dataset
+  * [Softcite data repository](https://github.com/howisonlab/softcite-dataset)
 	
-  * Data file: https://github.com/howisonlab/softcite-dataset/blob/master/data/corpus/softcite_corpus-full.tei.xml (downloaded on February 8, 2021)
+  * [Full corpus](https://github.com/howisonlab/softcite-dataset/blob/master/data/corpus/softcite_corpus-full.tei.xml) (downloaded on February 8, 2021)
         
   * Instructions: Download the XML file above and place it in the data folder. 
    
@@ -73,7 +73,7 @@ While there have been efforts to tackle different aspects of this goal (and spec
 
 #### Wikipedia Linking 
 
-  * This model is based on BLINK model: https://github.com/facebookresearch/BLINK 
+  * This model is based on [BLINK model](https://github.com/facebookresearch/BLINK)
   
   * Follow instructions on the github repo to download relevant models/install. 
 
