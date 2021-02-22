@@ -41,7 +41,7 @@ While there have been efforts to tackle different aspects of this goal (and spec
         
   * Instructions: Download the XML file above and place it in the data folder. 
    
-  * Process XML file: <span style="color: green"> ./scripts/Parse softcite data.ipynb </span>
+  * Process XML file: ` ./scripts/Parse softcite data.ipynb`
   	  
 	  * Input: ./data/softcite_corpus-full.tei.xml
     	  
@@ -49,7 +49,7 @@ While there have been efforts to tackle different aspects of this goal (and spec
 
 #### Model
 
-  * Training: ./scripts/Train software mentions model.ipynb 
+  * Training: `./scripts/Train software mentions model.ipynb` 
   
 	  * Input: ./data/labeled_dfs_all.csv, ‘allenai/scibert_scivocab_cased’
 
@@ -65,7 +65,7 @@ While there have been efforts to tackle different aspects of this goal (and spec
     
   * Download pretrained model from: s3://meta-prod-ds-storage/software_mentions_extraction/models and place it in ./models/ folder. 
   
-  * Example of how to run the model in inference mode: ./scripts/Software mentions inference mode.ipynb
+  * Example of how to run the model in inference mode: `./scripts/Software mentions inference mode.ipynb`
   
   * Example: 
   
@@ -77,7 +77,7 @@ While there have been efforts to tackle different aspects of this goal (and spec
   
   * Follow instructions on the github repo to download relevant models/install. 
 
-  * Example of how to run the model in inference mode: ./scripts/Link text to wikipedia.ipynb
+  * Example of how to run the model in inference mode: `./scripts/Link text to wikipedia.ipynb`
 	
   * Example: 
         
