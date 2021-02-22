@@ -81,7 +81,7 @@ While there have been efforts to tackle different aspects of this goal (and spec
 	
   * Example: 
         
-  <img src="https://github.com/chanzuckerberg/cord19-software-mentions/blob/main/img/img3.png" width="500">
+  ![](https://github.com/chanzuckerberg/cord19-software-mentions/blob/main/img/img3.png)
 
 ## Related documents: 
 
