@@ -27,61 +27,45 @@ While there have been efforts to tackle different aspects of this goal (and spec
 ## Instructions
 
 ### Dependencies
-    * Python 3.7.4
-    * Python packages: pandas, numpy, keras, torch, nltk, sklearn, transformers, os, seqeval, 
+    Python 3.7.4
+    Python packages: pandas, numpy, keras, torch, nltk, sklearn, transformers, os, seqeval, 
 
 ### Training
-    __Data__
-    
-    Softcite: 
+#### Data
+
+  Softcite: 
         Repo: https://github.com/howisonlab/softcite-dataset
-        
         Data file: https://github.com/howisonlab/softcite-dataset/blob/master/data/corpus/softcite_corpus-full.tei.xml (downloaded on February 8, 2021)
-        
         Instructions: Download the XML file above and place it in the data folder. 
-        
         Process XML file: ./scripts/Parse softcite data.ipynb
-        
-	      Input: ./data/softcite_corpus-full.tei.xml
-        
+        Input: ./data/softcite_corpus-full.tei.xml
         Output: ./data/labeled_dfs_all.csv
 
-    __Model__
-    
-        Training: ./scripts/Train software mentions model.ipynb 
-
-        Input: ./data/labeled_dfs_all.csv, ‘allenai/scibert_scivocab_cased’
-	
-        Output: ./models/scibert_software_sent 
-	
-      	Performance: 
-        
-        ![Alt text](https://github.com/chanzuckerberg/cord19-software-mentions/img/img1.PNG?raw=true)
+#### Model
+  Training: ./scripts/Train software mentions model.ipynb 
+  Input: ./data/labeled_dfs_all.csv, ‘allenai/scibert_scivocab_cased’
+  Output: ./models/scibert_software_sent 
+  Performance: 
+  ![Alt text](https://github.com/chanzuckerberg/cord19-software-mentions/img/img1.PNG?raw=true)
 	
 ### Inference 
 
-    __Software Mentions__ 
+#### Software Mentions
     
-        Download pretrained model from: s3://meta-prod-ds-storage/software_mentions_extraction/models and place it in ./models/ folder. 
-	       
-        Example of how to run the model in inference mode: 
-        
-        ./scripts/Software mentions inference mode.ipynb
-	
-        Example: 
-        
-        ![Alt text](https://github.com/chanzuckerberg/cord19-software-mentions/img/img2.PNG?raw=true)
+  Download pretrained model from: s3://meta-prod-ds-storage/software_mentions_extraction/models and place it in ./models/ folder. 
+  Example of how to run the model in inference mode: ./scripts/Software mentions inference mode.ipynb
+  Example: 
+  ![Alt text](https://github.com/chanzuckerberg/cord19-software-mentions/img/img2.PNG?raw=true)
 
-    __Wikipedia Linking__ 
-        
-        This model is based on BLINK model: https://github.com/facebookresearch/BLINK 
-	      Follow instructions on the github repo to download relevant models/install. 
+#### Wikipedia Linking 
+  This model is based on BLINK model: https://github.com/facebookresearch/BLINK 
+  Follow instructions on the github repo to download relevant models/install. 
 
-        Example of how to run the model in inference mode: ./scripts/Link text to wikipedia.ipynb
+  Example of how to run the model in inference mode: ./scripts/Link text to wikipedia.ipynb
 	
-	      Example: 
+  Example: 
         
-        ![Alt text](https://github.com/chanzuckerberg/cord19-software-mentions/img/img3.PNG?raw=true)
+  ![Alt text](https://github.com/chanzuckerberg/cord19-software-mentions/img/img3.PNG?raw=true)
 
 ## Related documents: 
 
