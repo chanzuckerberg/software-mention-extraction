@@ -2,7 +2,7 @@
 
 ## Why?
 
-Most of the cutting-edge science is built on scientific software, which makes scientific software often as important as traditional scholarly literature. Biology focused software defines bioinformatics and their use is central to computational biology. Despite that, the software is not always treated as such, especially when it comes to funding, credit, and citations. 
+Most of the cutting-edge science is built on scientific software, which makes scientific software often as important as traditional scholarly literature. Biology focused software defines bioinformatics and its use is central to computational biology. Despite that, the software is not always treated as such, especially when it comes to funding, credit, and citations. 
 Moreover, with the ever-growing number of open-source software tools, it is impossible for many researchers to track tools, databases, and methods in a specific field. 
 
 ## What? 
@@ -39,9 +39,9 @@ While there have been efforts to tackle different aspects of this goal (and spec
 	
   * [Full corpus](https://github.com/howisonlab/softcite-dataset/blob/master/data/corpus/softcite_corpus-full.tei.xml) (downloaded on February 8, 2021)
         
-  * Instructions: Download the XML file above and place it in the data folder. 
+  * Download the XML file above and place it in the ./data folder. 
    
-  * Process XML file using: ` ./scripts/Parse softcite data.ipynb`
+  * XML file processing script: ` ./scripts/Parse softcite data.ipynb`
   	  
 	  * *Input:* ./data/softcite_corpus-full.tei.xml
     	  
@@ -49,7 +49,7 @@ While there have been efforts to tackle different aspects of this goal (and spec
 
 #### Model
 
-  * Training: `./scripts/Train software mentions model.ipynb` 
+  * Model training script: `./scripts/Train software mentions model.ipynb` 
   
 	  * *Input:* ./data/labeled_dfs_all.csv, ‘allenai/scibert_scivocab_cased’
 
@@ -63,7 +63,7 @@ While there have been efforts to tackle different aspects of this goal (and spec
 
 #### Software Mentions
     
-  * Download pretrained model from: s3://meta-prod-ds-storage/software_mentions_extraction/models and place it in ./models/ folder. 
+  * Download pretrained model 'scibert_software_sent' from: s3://meta-prod-ds-storage/software_mentions_extraction/models and place it in the ./models/ folder. 
   
   * Example of how to run the model in inference mode: `./scripts/Software mentions inference mode.ipynb`
   
