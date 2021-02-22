@@ -69,7 +69,7 @@ While there have been efforts to tackle different aspects of this goal (and spec
   
   * *Example:* 
   
-  ![](https://github.com/chanzuckerberg/cord19-software-mentions/blob/main/img/img2.png?raw=true)
+  <img src="https://github.com/chanzuckerberg/cord19-software-mentions/blob/main/img/img2.png" height="200">
 
 #### Wikipedia Linking 
 
