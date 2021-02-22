@@ -54,8 +54,8 @@ While there have been efforts to tackle different aspects of this goal (and spec
 	  * Output: ./models/scibert_software_sent 
   
   __Performance:__
-  
-  ![](https://github.com/chanzuckerberg/cord19-software-mentions/blob/main/img/img1.png width="10" height="10")
+ 
+  <img src="https://github.com/chanzuckerberg/cord19-software-mentions/blob/main/img/img1.png" width="100" height="100">
 	
 ### Inference 
 
