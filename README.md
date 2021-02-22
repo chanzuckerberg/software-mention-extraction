@@ -41,9 +41,11 @@ While there have been efforts to tackle different aspects of this goal (and spec
         
   * Instructions: Download the XML file above and place it in the data folder. 
         
-  * Process XML file: <span style="color:pink">./scripts/Parse softcite data.ipynb</span>.
-          * Input: ./data/softcite_corpus-full.tei.xml
-    	  * Output: ./data/labeled_dfs_all.csv
+  * Process XML file: <span style="color:blue">./scripts/Parse softcite data.ipynb</span>.
+          
+	  * Input: ./data/softcite_corpus-full.tei.xml
+          
+	  * Output: ./data/labeled_dfs_all.csv
 
 #### Model
 
