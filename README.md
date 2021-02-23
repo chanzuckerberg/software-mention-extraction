@@ -1,4 +1,4 @@
-# Software Knowledge Base Construction from Scientific Articles
+# Software Knowledge Base Construction from Scientific Articles :floppy_disk:
 
 ## Why?
 
@@ -24,7 +24,7 @@ While there have been efforts to tackle different aspects of this goal (and spec
 2. Develop a model for linking mentions of software to existing knowledge bases ([Wikipedia](https://en.wikipedia.org/wiki/Main_Page))
 
 
-## Instructions
+## :star: Instructions
 
 ### Dependencies
     Python 3.7+ (tested on 3.7.4)
