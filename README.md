@@ -62,6 +62,12 @@ Moreover, with the ever-growing number of open-source software tools, it is impo
         
   ![](https://github.com/chanzuckerberg/cord19-software-mentions/blob/main/img/img3.png?raw=true)
 
+### Extract Mentions of Software from CORD-19 Dataset :microbe: :books:
+
+  * __CORD-19 data__
+  * Download and more information [here](https://ai2-semanticscholar-cord-19.s3-us-west-2.amazonaws.com/historical_releases.html)
+  * Run notebook: `./scripts/Software mentions CORD19.ipynb`
+
 ## Related documents: 
 
 * [Project Details](https://docs.google.com/document/d/1BwFHpvispYfniaQR-xx00VpP0EdYxXnkWp-cldWYDr4/edit)
