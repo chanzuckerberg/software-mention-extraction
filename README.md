@@ -27,7 +27,7 @@ While there have been efforts to tackle different aspects of this goal (and spec
 ## Instructions
 
 ### Dependencies
-    Python 3.7.4
+    Python 3.7+ (tested on 3.7.4)
     Python packages: pandas, numpy, keras, torch, nltk, sklearn, transformers, os, seqeval, 
 
 ### Training
