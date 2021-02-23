@@ -1,7 +1,5 @@
 # Software Mention Extraction and Linking from Scientific Articles :floppy_disk:
 
-## Why?
-
 Most of the cutting-edge science is built on scientific software, which makes scientific software often as important as traditional scholarly literature. Biology focused software defines bioinformatics and its use is central to computational biology. Despite that, the software is not always treated as such, especially when it comes to funding, credit, and citations. 
 Moreover, with the ever-growing number of open-source software tools, it is impossible for many researchers to track tools, databases, and methods in a specific field. 
 
