@@ -64,8 +64,8 @@ Moreover, with the ever-growing number of open-source software tools, it is impo
 
 ### Extract Mentions of Software from CORD-19 Dataset :microbe: :books:
 
-  * __CORD-19 data__
-  * Download and more information [here](https://ai2-semanticscholar-cord-19.s3-us-west-2.amazonaws.com/historical_releases.html)
+  * __CORD-19 data__: More information and download instructions: [here](https://github.com/allenai/cord19)
+  * Save to the ./data/ folder
   * Run notebook: `./scripts/Software mentions CORD19.ipynb`
 
 ## Related documents: 
