@@ -20,7 +20,7 @@ Moreover, with the ever-growing number of open-source software tools, it is impo
         
   * Download the XML file above and place it in the ./data folder. 
    
-  * XML file processing script: ` ./scripts/Parse softcite data.ipynb`
+  * XML file processing notebook: ` ./notebooks/Parse softcite data.ipynb`
   	  
 	  * *Input:* ./data/softcite_corpus-full.tei.xml
     	  
@@ -28,7 +28,7 @@ Moreover, with the ever-growing number of open-source software tools, it is impo
 
 #### Model
 
-  * Model training script: `./scripts/Train software mentions model.ipynb` 
+  * Model training notebook: `./notebooks/Train software mentions model.ipynb` 
   
 	  * *Input:* ./data/labeled_dfs_all.csv, ‘allenai/scibert_scivocab_cased’
 
