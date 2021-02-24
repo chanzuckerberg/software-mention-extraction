@@ -7,7 +7,7 @@ Moreover, with the ever-growing number of open-source software tools, it is impo
 
 ### Dependencies
     Python 3.7+ (tested on 3.7.4)
-    Python packages: pandas, numpy, keras, torch, nltk, sklearn, transformers, os, seqeval, 
+    Python packages: pandas, numpy, keras, torch, nltk, sklearn, transformers, os, seqeval, json, time, 
 
 ### Training
 #### Data
