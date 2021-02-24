@@ -1,7 +1,6 @@
 # Software Mention Extraction and Linking from Scientific Articles :floppy_disk:
 
-Most of the cutting-edge science is built on scientific software, which makes scientific software often as important as traditional scholarly literature. Biology focused software defines bioinformatics and its use is central to computational biology. Despite that, the software is not always treated as such, especially when it comes to funding, credit, and citations. 
-Moreover, with the ever-growing number of open-source software tools, it is impossible for many researchers to track tools, databases, and methods in a specific field. 
+Most of the cutting-edge science is built on scientific software, which makes scientific software often as important as traditional scholarly literature. Despite that, the software is not always treated as such, especially when it comes to funding, credit, and citations. Moreover, with the ever-growing number of open-source software tools, it is impossible for many researchers to track tools, databases, and methods in a specific field. 
 
 In an effort to automate the process of crediting and identifying relevant and essential software in the biomedical domain, we've developed a machine learning model to extract mentions of software from scientific articles. The input to this model is a text from a scientific article and the output is a list of mentioned software within it. 
 
