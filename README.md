@@ -52,7 +52,7 @@ Moreover, with the ever-growing number of open-source software tools, it is impo
 
 #### Wikipedia Linking 
 
-  * This model is based on [BLINK model](https://github.com/facebookresearch/BLINK)
+  * This model is based on [BLINK](https://github.com/facebookresearch/BLINK)
   
   * Follow instructions on the github repo to download relevant models/install. 
 
