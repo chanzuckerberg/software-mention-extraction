@@ -5,7 +5,7 @@
 
 ----
 <!-- END -->
-# Software Mention Extraction and Linking from Scientific Articles :floppy_disk:
+# Software mention extraction and linking from scientific articles :floppy_disk:
 
 Most of the cutting-edge science is built on scientific software, which makes scientific software often as important as traditional scholarly literature. Despite that, the software is not always treated as such, especially when it comes to funding, credit, and citations. Moreover, with the ever-growing number of open-source software tools, it is impossible for many researchers to track tools, databases, and methods in a specific field. 
 
@@ -72,7 +72,7 @@ We applied this model to the CORD-19 full-text articles and stored the output in
         
   ![](https://github.com/chanzuckerberg/cord19-software-mentions/blob/main/img/img3.png?raw=true)
 
-### Extract Mentions of Software from CORD-19 Dataset :microbe: :books:
+### Extract mentions of software from CORD-19 dataset :microbe: :books:
 
   * __CORD-19 data__: More information and download instructions: [here](https://github.com/allenai/cord19)
   * Save to the ./data/ folder
