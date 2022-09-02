@@ -11,7 +11,7 @@ Most of the cutting-edge science is built on scientific software, which makes sc
 
 In an effort to automate the process of crediting and identifying relevant and essential software in the biomedical domain, we've developed a machine learning model to extract mentions of software from scientific articles. The input to this model is a text from a scientific article and the output is a list of mentioned software within it. 
 
-We applied this model to the CORD-19 full-text articles and stored the output in [link to be added](). :arrow_right: TODO: add license info.
+We applied this model to the CORD-19 full-text articles and stored the output in [https://zenodo.org/record/4582776#.YxJZvuzMJQ0](). :arrow_right: TODO: add license info.
 
 ## :star: Instructions
 
@@ -77,10 +77,3 @@ We applied this model to the CORD-19 full-text articles and stored the output in
   * __CORD-19 data__: More information and download instructions: [here](https://github.com/allenai/cord19)
   * Save to the ./data/ folder
   * Run notebook: `./scripts/Software mentions CORD19.ipynb`
-
-## Related documents: 
-
-* [Project Details](https://docs.google.com/document/d/1BwFHpvispYfniaQR-xx00VpP0EdYxXnkWp-cldWYDr4/edit)
-* [LH presentation (12/18/2020)](https://drive.google.com/file/d/1Be85kFXwtCnXf2iajZAz_aN0ldN9HhdG/view)
-
-
