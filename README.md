@@ -74,7 +74,7 @@ We applied this model to the CORD-19 full-text articles and stored the output in
 
 ----------------------------------
 
-### Extract mentions of software from CORD-19 dataset :microbe: :books:
+### Extract mentions of software from the CORD-19 dataset :microbe: :books:
 
   * __CORD-19 data__: More information and download instructions: [here](https://github.com/allenai/cord19)
   * Save to the ./data/ folder
