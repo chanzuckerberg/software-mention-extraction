@@ -71,3 +71,14 @@ We applied this model to the CORD-19 full-text articles and stored the output in
   * __CORD-19 data__: More information and download instructions: [here](https://github.com/allenai/cord19)
   * Save to the ./data/ folder
   * Run notebook: `./scripts/Software mentions CORD19.ipynb`
+  
+  
+### Contributing
+Contributions and ideas are welcome! Please see our contributing guide and don't hesitate to open an issue or send a pull request to improve the functionality of this gem.
+
+### Code of Conduct
+
+This project adheres to the Contributor Covenant [code of conduct](https://github.com/chanzuckerberg/.github/blob/master/CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [opensource@chanzuckerberg.com](mailto:opensource@chanzuckerberg.com).
+
+### License
+MIT
