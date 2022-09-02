@@ -38,7 +38,7 @@ We applied this model to the CORD-19 full-text articles and stored the output in
 
   * Model training notebook: `./notebooks/Train software mentions model.ipynb` 
   
-	  * *Input:* ./data/labeled_dfs_all.csv, ‘allenai/scibert_scivocab_cased’
+	  * *Input:* ./data/labeled_dfs_all.csv, ‘allenai/scibert_scivocab_cased’ [SciBERT: A Pretrained Language Model for Scientific Text](https://aclanthology.org/D19-1371) (Beltagy et al., EMNLP 2019)
 
 	  * *Output:* ./models/scibert_software_sent 
   
