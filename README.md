@@ -7,11 +7,13 @@ In an effort to automate the process of crediting and identifying relevant and e
 We applied this model to the CORD-19 full-text articles and stored the output in[CORD-19 Software Mentions
 ](https://zenodo.org/record/4582776#.YxJZvuzMJQ0). **Cite as:** Wade, Alex D., & Williams, Ivana. (2021). CORD-19 Software Mentions [Data set]. https://doi.org/10.5061/dryad.vmcvdncs0
 
-## :star: Instructions
+## Getting started
 
 ### Dependencies
     Python 3.7+ (tested on 3.7.4)
     Python packages: pandas, numpy, keras, torch, nltk, sklearn, transformers, os, seqeval, json, time, tqdm, argparse, blink, bs4, re, itertools
+
+----------------------------------
 
 ### Training
 #### Data
@@ -30,6 +32,8 @@ We applied this model to the CORD-19 full-text articles and stored the output in
     	  
 	  * *Output:* ./data/labeled_dfs_all.csv
 
+----------------------------------
+
 #### Model
 
   * Model training notebook: `./notebooks/Train software mentions model.ipynb` 
@@ -41,7 +45,9 @@ We applied this model to the CORD-19 full-text articles and stored the output in
   __Performance:__
  
   <img src="https://github.com/chanzuckerberg/cord19-software-mentions/blob/main/img/img1.png" width="600">
-	
+
+----------------------------------
+
 ### Inference 
 
 #### Software Mentions
@@ -66,12 +72,15 @@ We applied this model to the CORD-19 full-text articles and stored the output in
         
   ![](https://github.com/chanzuckerberg/cord19-software-mentions/blob/main/img/img3.png?raw=true)
 
+----------------------------------
+
 ### Extract mentions of software from CORD-19 dataset :microbe: :books:
 
   * __CORD-19 data__: More information and download instructions: [here](https://github.com/allenai/cord19)
   * Save to the ./data/ folder
   * Run notebook: `./scripts/Software mentions CORD19.ipynb`
-  
+
+----------------------------------
   
 ### Contributing
 Contributions and ideas are welcome! Please see our contributing guide and don't hesitate to open an issue or send a pull request to improve the functionality of this gem.
