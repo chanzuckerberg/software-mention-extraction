@@ -1,10 +1,3 @@
-<!-- START -->
-----
-
-> **FOR CZIF USE ONLY. This repo belongs to [CZIF](https://wiki.czi.team/display/CZIF2/CZIF+2.0+Home). You should only use this repo for Foundation work. Contact [CZIFHelp@chanzuckerberg.com](mailto:CZIFHelp@chanzuckerberg.com) with questions.**
-
-----
-<!-- END -->
 # Software mention extraction and linking from scientific articles :floppy_disk:
 
 Most of the cutting-edge science is built on scientific software, which makes scientific software often as important as traditional scholarly literature. Despite that, the software is not always treated as such, especially when it comes to funding, credit, and citations. Moreover, with the ever-growing number of open-source software tools, it is impossible for many researchers to track tools, databases, and methods in a specific field. 
